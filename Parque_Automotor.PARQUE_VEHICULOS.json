@@ -1,6 +1,6 @@
 [{
   "_id": {
-    "$oid": "673e30d17533db01dc217996"
+    "$oid": "67460319fb9be5ed4aad1e76"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -18,7 +18,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc217997"
+    "$oid": "67460319fb9be5ed4aad1e77"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -29,14 +29,14 @@
   "MARCA": "Akt",
   "TIPO DE COMBUSTIBLE": "Gasolina",
   "MODELO": 2019,
-  "PESO": 100,
+  "PESO": 0,
   "GASES VIGENTE": "Si",
   "SERVICIO": "Particular",
   "SOAT VIGENTE": "No"
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc217998"
+    "$oid": "67460319fb9be5ed4aad1e78"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -54,7 +54,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc217999"
+    "$oid": "67460319fb9be5ed4aad1e79"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -72,7 +72,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc21799a"
+    "$oid": "67460319fb9be5ed4aad1e7a"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -90,7 +90,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc21799b"
+    "$oid": "67460319fb9be5ed4aad1e7b"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -108,7 +108,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc21799c"
+    "$oid": "67460319fb9be5ed4aad1e7c"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -126,7 +126,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc21799d"
+    "$oid": "67460319fb9be5ed4aad1e7d"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -144,7 +144,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc21799e"
+    "$oid": "67460319fb9be5ed4aad1e7e"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -162,7 +162,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc21799f"
+    "$oid": "67460319fb9be5ed4aad1e7f"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -180,7 +180,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a0"
+    "$oid": "67460319fb9be5ed4aad1e80"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -198,7 +198,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a1"
+    "$oid": "67460319fb9be5ed4aad1e81"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -216,7 +216,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a2"
+    "$oid": "67460319fb9be5ed4aad1e82"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -234,7 +234,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a3"
+    "$oid": "67460319fb9be5ed4aad1e83"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -252,7 +252,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a4"
+    "$oid": "67460319fb9be5ed4aad1e84"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -270,7 +270,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a5"
+    "$oid": "67460319fb9be5ed4aad1e85"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -288,7 +288,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a6"
+    "$oid": "67460319fb9be5ed4aad1e86"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -306,7 +306,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a7"
+    "$oid": "67460319fb9be5ed4aad1e87"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -324,7 +324,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179a8"
+    "$oid": "67460319fb9be5ed4aad1e88"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -342,7 +342,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179aa"
+    "$oid": "67460319fb9be5ed4aad1e8a"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -360,7 +360,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179ab"
+    "$oid": "67460319fb9be5ed4aad1e8b"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -378,7 +378,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179ac"
+    "$oid": "67460319fb9be5ed4aad1e8c"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -396,7 +396,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179ad"
+    "$oid": "67460319fb9be5ed4aad1e8d"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -414,7 +414,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179ae"
+    "$oid": "67460319fb9be5ed4aad1e8e"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -432,7 +432,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179af"
+    "$oid": "67460319fb9be5ed4aad1e8f"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -450,7 +450,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179b0"
+    "$oid": "67460319fb9be5ed4aad1e90"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -468,7 +468,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179b1"
+    "$oid": "67460319fb9be5ed4aad1e91"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -486,7 +486,7 @@
 },
 {
   "_id": {
-    "$oid": "673e30d17533db01dc2179b2"
+    "$oid": "67460319fb9be5ed4aad1e92"
   },
   "AÑO DE REGISTRO": 2018,
   "CILINDRAJE": 900,
@@ -501,16 +501,1457 @@
   "GASES VIGENTE": "Si",
   "SERVICIO": "Particular",
   "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e93"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e94"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Kymco",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e95"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 1,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Akt",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e96"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e97"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Kymco",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e98"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e99"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Akt",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e9a"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Suzuki",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e9b"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e9c"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e9d"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 1,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e9e"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1e9f"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 1,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea0"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea1"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea2"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Akt",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea3"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea4"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea5"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea6"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea7"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea8"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ea9"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eaa"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eab"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eac"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ead"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eae"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eaf"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb0"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb1"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb2"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb3"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 1998,
+  "CAPACIDAD DE PASAJEROS": 5,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Camioneta",
+  "CARROCERÍA": "Wagon Camioneta",
+  "MARCA": "Renault",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Publico",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb4"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb5"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb6"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 7,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Campero",
+  "CARROCERÍA": "Wagon Campero",
+  "MARCA": "Toyota",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb7"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Akt",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb8"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 5,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Automovil",
+  "CARROCERÍA": "Hatchback Autom",
+  "MARCA": "Suzuki",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eb9"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eba"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ebb"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 7,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Campero",
+  "CARROCERÍA": "Wagon Campero",
+  "MARCA": "Toyota",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ebc"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ebd"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ebe"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ebf"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec0"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec1"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec2"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec3"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec4"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec5"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec6"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec7"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Bajaj",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec8"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ec9"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eca"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Kymco",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ecb"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ecc"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Bajaj",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ecd"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ece"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ecf"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Bajaj",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed0"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed1"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Bajaj",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed2"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed3"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed4"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed5"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed6"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed7"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Bajaj",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed8"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 1,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ed9"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroc Motocarro",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1eda"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1edb"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Bajaj",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1edc"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Yamaha",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1edd"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 5,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Camioneta",
+  "CARROCERÍA": "Wagon Camioneta",
+  "MARCA": "Audi",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2018,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ede"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Akt",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1edf"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 7790,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 6.27,
+  "CLASE": "Camion",
+  "CARROCERÍA": "Tanque",
+  "MARCA": "Chevrolet",
+  "TIPO DE COMBUSTIBLE": "Acpm",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Publico",
+  "SOAT VIGENTE": "No"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ee0"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 5,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Camioneta",
+  "CARROCERÍA": "Dc Camioneta",
+  "MARCA": "Toyota",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ee1"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 5,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Automovil",
+  "CARROCERÍA": "Sedan",
+  "MARCA": "Chevrolet",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "Si"
+},
+{
+  "_id": {
+    "$oid": "67460319fb9be5ed4aad1ee2"
+  },
+  "AÑO DE REGISTRO": 2018,
+  "CILINDRAJE": 900,
+  "CAPACIDAD DE PASAJEROS": 2,
+  "CAPACIDAD DE CARGA": 0,
+  "CLASE": "Motocicleta",
+  "CARROCERÍA": "Sin Carroceria Moto",
+  "MARCA": "Kymco",
+  "TIPO DE COMBUSTIBLE": "Gasolina",
+  "MODELO": 2019,
+  "PESO": 0,
+  "GASES VIGENTE": "Si",
+  "SERVICIO": "Particular",
+  "SOAT VIGENTE": "No"
 }]
 
 
-CONSULTAS CON MONGO SHELL 
+CONSULTAS EN MONGODB SHELL
 
-use Parque_Automotor
-switched to db Parque_Automotor
+
+use admin
+switched to db admin
 db["PARQUE_VEHICULOS"].find()
 {
-  _id: ObjectId('673e30d17533db01dc217996'),
+  _id: ObjectId('67460319fb9be5ed4aad1e76'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 1998,
   'CAPACIDAD DE PASAJEROS': 5,
@@ -526,7 +1967,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc217997'),
+  _id: ObjectId('67460319fb9be5ed4aad1e77'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 125,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -536,13 +1977,13 @@ db["PARQUE_VEHICULOS"].find()
   MARCA: 'Akt',
   'TIPO DE COMBUSTIBLE': 'Gasolina',
   MODELO: 2019,
-  PESO: 100,
+  PESO: 0,
   'GASES VIGENTE': 'Si',
   SERVICIO: 'Particular',
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc217998'),
+  _id: ObjectId('67460319fb9be5ed4aad1e78'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 198,
   'CAPACIDAD DE PASAJEROS': 4,
@@ -558,7 +1999,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc217999'),
+  _id: ObjectId('67460319fb9be5ed4aad1e79'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 155,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -574,7 +2015,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc21799a'),
+  _id: ObjectId('67460319fb9be5ed4aad1e7a'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 155,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -590,7 +2031,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc21799b'),
+  _id: ObjectId('67460319fb9be5ed4aad1e7b'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 2982,
   'CAPACIDAD DE PASAJEROS': 7,
@@ -606,7 +2047,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc21799c'),
+  _id: ObjectId('67460319fb9be5ed4aad1e7c'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 149,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -622,7 +2063,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc21799d'),
+  _id: ObjectId('67460319fb9be5ed4aad1e7d'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 149,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -638,7 +2079,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc21799e'),
+  _id: ObjectId('67460319fb9be5ed4aad1e7e'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 99,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -654,7 +2095,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc21799f'),
+  _id: ObjectId('67460319fb9be5ed4aad1e7f'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 155,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -670,7 +2111,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a0'),
+  _id: ObjectId('67460319fb9be5ed4aad1e80'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 155,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -686,7 +2127,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a1'),
+  _id: ObjectId('67460319fb9be5ed4aad1e81'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 155,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -702,7 +2143,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a2'),
+  _id: ObjectId('67460319fb9be5ed4aad1e82'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 124,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -718,7 +2159,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a3'),
+  _id: ObjectId('67460319fb9be5ed4aad1e83'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 155,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -734,7 +2175,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a4'),
+  _id: ObjectId('67460319fb9be5ed4aad1e84'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 124,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -750,7 +2191,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a5'),
+  _id: ObjectId('67460319fb9be5ed4aad1e85'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 149,
   'CAPACIDAD DE PASAJEROS': 1,
@@ -766,7 +2207,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a6'),
+  _id: ObjectId('67460319fb9be5ed4aad1e86'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 124,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -782,7 +2223,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a7'),
+  _id: ObjectId('67460319fb9be5ed4aad1e87'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 124,
   'CAPACIDAD DE PASAJEROS': 2,
@@ -798,7 +2239,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'Si'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a8'),
+  _id: ObjectId('67460319fb9be5ed4aad1e88'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 124,
   'CAPACIDAD DE PASAJEROS': 1,
@@ -814,7 +2255,7 @@ db["PARQUE_VEHICULOS"].find()
   'SOAT VIGENTE': 'No'
 }
 {
-  _id: ObjectId('673e30d17533db01dc2179a9'),
+  _id: ObjectId('67460319fb9be5ed4aad1e89'),
   'AÑO DE REGISTRO': 2018,
   CILINDRAJE: 3198,
   'CAPACIDAD DE PASAJEROS': 5,
@@ -946,328 +2387,6 @@ db["PARQUE_VEHICULOS"].updateOne(
   modifiedCount: 1,
   upsertedCount: 0
 }
-db["PARQUE_VEHICULOS"].find()
-{
-  _id: ObjectId('673e30d17533db01dc217996'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 1998,
-  'CAPACIDAD DE PASAJEROS': 5,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Camioneta',
-  'CARROCERÍA': 'Wagon Camioneta',
-  MARCA: 'Renault',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217997'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 125,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217998'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 198,
-  'CAPACIDAD DE PASAJEROS': 4,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocarro',
-  'CARROCERÍA': 'Carpado Motocarro',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217999'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 155,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799a'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 155,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799b'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 2982,
-  'CAPACIDAD DE PASAJEROS': 7,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Campero',
-  'CARROCERÍA': 'Wagon Campero',
-  MARCA: 'Toyota',
-  'TIPO DE COMBUSTIBLE': 'Acpm',
-  MODELO: 2016,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799c'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 149,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799d'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 149,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799e'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 99,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799f'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 155,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a0'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 155,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a1'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 155,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a2'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 124,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a3'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 155,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a4'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 124,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a5'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 149,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a6'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 124,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a7'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 124,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a8'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 124,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a9'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 3198,
-  'CAPACIDAD DE PASAJEROS': 5,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Camioneta',
-  'CARROCERÍA': 'Dc Camioneta',
-  MARCA: 'Ford',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Oficial',
-  'SOAT VIGENTE': 'No'
-}
-Type "it" for more
 db["PARQUE_VEHICULOS"].updateMany(
  { SERVICIO: "Particular" }, // FILTRO SELECCIONA TODOS LOS DOCUEMTNOS DE LA CATEGORIA SERVICIO
   {$set: { CILINDRAJE: 900 } } // ACTUALIZACION ESTABALECE EL MODELO A 2020
@@ -1276,343 +2395,15 @@ db["PARQUE_VEHICULOS"].updateMany(
 {
   acknowledged: true,
   insertedId: null,
-  matchedCount: 28,
-  modifiedCount: 28,
+  matchedCount: 106,
+  modifiedCount: 106,
   upsertedCount: 0
 }
-db["PARQUE_VEHICULOS"].find()
-{
-  _id: ObjectId('673e30d17533db01dc217996'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 5,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Camioneta',
-  'CARROCERÍA': 'Wagon Camioneta',
-  MARCA: 'Renault',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217997'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217998'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 4,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocarro',
-  'CARROCERÍA': 'Carpado Motocarro',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217999'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799a'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799b'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 7,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Campero',
-  'CARROCERÍA': 'Wagon Campero',
-  MARCA: 'Toyota',
-  'TIPO DE COMBUSTIBLE': 'Acpm',
-  MODELO: 2016,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799c'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799d'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799e'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799f'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a0'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a1'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a2'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a3'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a4'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a5'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a6'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a7'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a8'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a9'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 3198,
-  'CAPACIDAD DE PASAJEROS': 5,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Camioneta',
-  'CARROCERÍA': 'Dc Camioneta',
-  MARCA: 'Ford',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Oficial',
-  'SOAT VIGENTE': 'No'
-}
-Type "it" for more
 db["PARQUE_VEHICULOS"].deleteOne(	{ SERVICIO: "Oficial" } // FILTRO SELECCIONA DOCUMENTO DONDE EL CAMPO 
 );
 {
   acknowledged: true,
   deletedCount: 1
-}
-db["Inventario de vehículos"].deleteMany(	{ SERVICIO: "Oficial" } // FILTRO SELECCIONA DOCUMENTO DONDE LOS CAMPOS OFICIAL 
-);
-{
-  acknowledged: true,
-  deletedCount: 0
 }
 db["PARQUE_VEHICULOS"].deleteMany(	{ SERVICIO: "Oficial" } // FILTRO SELECCIONA DOCUMENTO DONDE LOS CAMPOS OFICIAL 
 );
@@ -1620,373 +2411,9 @@ db["PARQUE_VEHICULOS"].deleteMany(	{ SERVICIO: "Oficial" } // FILTRO SELECCIONA 
   acknowledged: true,
   deletedCount: 0
 }
-db["PARQUE_VEHICULOS"].find()
-{
-  _id: ObjectId('673e30d17533db01dc217996'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 5,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Camioneta',
-  'CARROCERÍA': 'Wagon Camioneta',
-  MARCA: 'Renault',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217997'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217998'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 4,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocarro',
-  'CARROCERÍA': 'Carpado Motocarro',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217999'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799a'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799b'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 7,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Campero',
-  'CARROCERÍA': 'Wagon Campero',
-  MARCA: 'Toyota',
-  'TIPO DE COMBUSTIBLE': 'Acpm',
-  MODELO: 2016,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799c'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799d'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799e'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799f'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a0'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a1'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a2'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a3'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a4'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a5'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a6'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a7'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a8'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179aa'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-Type "it" for more
 db["PARQUE_VEHICULOS"].aggregate([
   {
 		$match: { PESO: { $gt: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
-},
-{ 
-	$project: { // OPERACION CALCULA EL TOTAL DE VENTA PARA CADA DOCUMENTO 
-		SERVICIO: "PARTICULAR",
-		TOTALCAPACIDAD: { $multiply: ["$CAPACIDAD DE PASAJEROS", "$PESO"] }
-	}
-},
-{
-$group: { // AGRUPA LOS RESULTADOS POR CATEGORIA
-  _id: "$CAPACIDAD DE PSASAJEROS",
-CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGORIA
-	}
-}	
-]); 
-{
-  _id: null,
-  CAPACIDADVEHICULO: 400
-}
-db["PARQUE_VEHICULOS"].aggregate([
-  {
-		$match: { PESO: { $lt: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
-},
-{ 
-	$project: { // OPERACION CALCULA EL TOTAL DE VENTA PARA CADA DOCUMENTO 
-		SERVICIO: "PARTICULAR",
-		TOTALCAPACIDAD: { $multiply: ["$CAPACIDAD DE PASAJEROS", "$PESO"] }
-	}
-},
-{
-$group: { // AGRUPA LOS RESULTADOS POR CATEGORIA
-  _id: "$CAPACIDAD DE PSASAJEROS",
-CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGORIA
-	}
-}	
-]); 
-{
-  _id: null,
-  CAPACIDADVEHICULO: 0
-}
-db["PARQUE_VEHICULOS"].aggregate([
-  {
-		$match: { PESO: { $lt: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
 },
 { 
 	$project: { // OPERACION CALCULA EL TOTAL DE VENTA PARA CADA DOCUMENTO 
@@ -2003,7 +2430,7 @@ CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGO
 ]); 
 {
   _id: null,
-  CAPACIDADVEHICULO: 0
+  CAPACIDADVEHICULO: 200
 }
 db["PARQUE_VEHICULOS"].aggregate([
   {
@@ -2023,35 +2450,21 @@ CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGO
 }	
 ]);
 {
-  _id: 'Camioneta',
+  _id: 'Automovil',
   CAPACIDADVEHICULO: 0
 }
 {
-  _id: 'Motocarro',
+  _id: 'Camioneta',
   CAPACIDADVEHICULO: 0
 }
 {
   _id: 'Campero',
   CAPACIDADVEHICULO: 0
 }
-db["PARQUE_VEHICULOS"].aggregate([
-  {
-		$match: { "CAPACIDAD DE PASAJEROS": { $LT: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
-},
-{ 
-	$project: { // OPERACION CALCULA EL TOTAL DE VENTA PARA CADA DOCUMENTO 
-		CLASE: 1,
-		TOTALCAPACIDAD: { $multiply: ["$CAPACIDAD DE PASAJEROS", "$PESO"] }
-	}
-},
 {
-$group: { // AGRUPA LOS RESULTADOS POR CATEGORIA
-  _id: "$CLASE",
-CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGORIA
-	}
-}	
-]);
-MongoServerError[BadValue]: unknown operator: $LT
+  _id: 'Motocarro',
+  CAPACIDADVEHICULO: 0
+}
 db["PARQUE_VEHICULOS"].aggregate([
   {
 		$match: { "CAPACIDAD DE PASAJEROS": { $lt: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
@@ -2091,12 +2504,16 @@ CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGO
 }	
 ]);
 {
+  _id: 'Camion',
+  CAPACIDADVEHICULO: 0
+}
+{
   _id: 'Motocicleta',
-  CAPACIDADVEHICULO: 400
+  CAPACIDADVEHICULO: 200
 }
 db["PARQUE_VEHICULOS"].aggregate([
   {
-		$match: { "CAPACIDAD DE PASAJEROS": { $gt: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
+		$match: { "CAPACIDAD DE PASAJEROS": { $gte: 2 }} // FILTRO SELECCIONA DOCUMENTOS CON CANTIDAD MAYOR A 2 
 },
 { 
 	$project: { // OPERACION CALCULA EL TOTAL DE VENTA PARA CADA DOCUMENTO 
@@ -2116,29 +2533,24 @@ CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGO
   CAPACIDADVEHICULO: 0
 }
 {
-  _id: 'Motocarro',
-  CAPACIDADVEHICULO: 0
-}
-{
   _id: 'Campero',
   CAPACIDADVEHICULO: 0
 }
-db["PARQUE_VEHICULOS"].aggregate([
-  {
-	$project: { 
-		TOTALCAPACIDAD: { $multiply: ["$CAPACIDAD DE PASAJEROS", "$PESO"] } // CALCULO TOTAL DEL DOCUMENTO
-	}
-},
 {
-$group: { 
-  _id: "$CLASE", // AGRUPACION GLOBAL
-CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGORIA
-	}
-}	
-]);
+  _id: 'Automovil',
+  CAPACIDADVEHICULO: 0
+}
 {
-  _id: null,
-  CAPACIDADVEHICULO: 400
+  _id: 'Motocicleta',
+  CAPACIDADVEHICULO: 200
+}
+{
+  _id: 'Camion',
+  CAPACIDADVEHICULO: 0
+}
+{
+  _id: 'Motocarro',
+  CAPACIDADVEHICULO: 0
 }
 db["PARQUE_VEHICULOS"].aggregate([
   {
@@ -2155,361 +2567,8 @@ CAPACIDADVEHICULO: { $sum: "$TOTALCAPACIDAD"} // SUMA TOTAL DE VENTAS POR CATEGO
 ]);
 {
   _id: null,
-  CAPACIDADVEHICULO: 400
+  CAPACIDADVEHICULO: 200
 }
-Con el comando db["PARQUE_VEHICULOS "].aggregate([
-  {
-		$match: { CLASE:"Motocicleta"} // FILTRO SELECCIONA CAPACIDAD DE PASAJEROS
-  },
-  {
-	$count: "TOTALMOTOS" // CUENTA EL TOTAL DE LOS PASAJEROS EN LOS DOCUMENTOS 
-}
-]);
-SyntaxError: Missing semicolon. (1:3)
-
-> 1 | Con el comando db["PARQUE_VEHICULOS "].aggregate([
-    |    ^
-  2 |   {
-  3 | 		$match: { CLASE:"Motocicleta"} // FILTRO SELECCIONA CAPACIDAD DE PASAJEROS
-  4 |   },
-db["PARQUE_VEHICULOS "].aggregate([
-  {
-		$match: { CLASE:"Motocicleta"} // FILTRO SELECCIONA CAPACIDAD DE PASAJEROS
-  },
-  {
-	$count: "TOTALMOTOS" // CUENTA EL TOTAL DE LOS PASAJEROS EN LOS DOCUMENTOS 
-}
-]);
-db["PARQUE_VEHICULOS"].find()
-{
-  _id: ObjectId('673e30d17533db01dc217996'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 5,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Camioneta',
-  'CARROCERÍA': 'Wagon Camioneta',
-  MARCA: 'Renault',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217997'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217998'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 4,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocarro',
-  'CARROCERÍA': 'Carpado Motocarro',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc217999'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 100,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799a'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799b'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 7,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Campero',
-  'CARROCERÍA': 'Wagon Campero',
-  MARCA: 'Toyota',
-  'TIPO DE COMBUSTIBLE': 'Acpm',
-  MODELO: 2016,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799c'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799d'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799e'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Bajaj',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc21799f'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a0'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a1'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a2'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a3'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a4'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a5'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a6'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a7'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'Si'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179a8'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 1,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroceria Moto',
-  MARCA: 'Akt',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-{
-  _id: ObjectId('673e30d17533db01dc2179aa'),
-  'AÑO DE REGISTRO': 2018,
-  CILINDRAJE: 900,
-  'CAPACIDAD DE PASAJEROS': 2,
-  'CAPACIDAD DE CARGA': 0,
-  CLASE: 'Motocicleta',
-  'CARROCERÍA': 'Sin Carroc Motocarro',
-  MARCA: 'Yamaha',
-  'TIPO DE COMBUSTIBLE': 'Gasolina',
-  MODELO: 2019,
-  PESO: 0,
-  'GASES VIGENTE': 'Si',
-  SERVICIO: 'Particular',
-  'SOAT VIGENTE': 'No'
-}
-Type "it" for more
-db["PARQUE_VEHICULOS "].aggregate([
-  {
-		$match: { CLASE:"Motocicleta"} // FILTRO SELECCIONA CAPACIDAD DE PASAJEROS
-  },
-  {
-	$count: "TOTALMOTOS" // CUENTA EL TOTAL DE LOS PASAJEROS EN LOS DOCUMENTOS 
-}
-]);
 db["PARQUE_VEHICULOS"].aggregate([
   {
 		$match: { CLASE:"Motocicleta"} // FILTRO SELECCIONA CAPACIDAD DE PASAJEROS
@@ -2519,7 +2578,7 @@ db["PARQUE_VEHICULOS"].aggregate([
 }
 ]);
 {
-  TOTALMOTOS: 25
+  TOTALMOTOS: 97
 }
 db["PARQUE_VEHICULOS"].aggregate([
   {
@@ -2537,27 +2596,327 @@ db["PARQUE_VEHICULOS"].aggregate([
   _id: 'Motocicleta',
   PROMEDIOCLASE: null
 }
-db["PARQUE_VEHICULOS"].aggregate([
-  {
-		$match: { MODELO: "Particular" } 
-  },
-  {
-	$group: {
-		_id: "$MODELO",
-		PROMEDIOCLASE: { $avg: "CLASE" } 
-  }
+db["PARQUE_VEHICULOS"].find()
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e76'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 5,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Camioneta',
+  'CARROCERÍA': 'Wagon Camioneta',
+  MARCA: 'Renault',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
 }
-]);
-
-db["PARQUE_VEHICULOS"].aggregate([
-  {
-		$match: { CLASE: "Motocicleta" } 
-  },
-  {
-	$group: {
-		_id: "$CLASE",
-		PROMEDIOCLASE: { $avg: "PESO" } 
-  }
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e77'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Akt',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
 }
-]);
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e78'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 4,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocarro',
+  'CARROCERÍA': 'Carpado Motocarro',
+  MARCA: 'Bajaj',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e79'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 100,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e7a'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e7b'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 7,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Campero',
+  'CARROCERÍA': 'Wagon Campero',
+  MARCA: 'Toyota',
+  'TIPO DE COMBUSTIBLE': 'Acpm',
+  MODELO: 2016,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e7c'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroc Motocarro',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e7d'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e7e'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Bajaj',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e7f'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e80'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e81'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroc Motocarro',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e82'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e83'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e84'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroc Motocarro',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e85'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 1,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e86'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e87'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Akt',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'Si'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e88'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 1,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroceria Moto',
+  MARCA: 'Akt',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+{
+  _id: ObjectId('67460319fb9be5ed4aad1e8a'),
+  'AÑO DE REGISTRO': 2018,
+  CILINDRAJE: 900,
+  'CAPACIDAD DE PASAJEROS': 2,
+  'CAPACIDAD DE CARGA': 0,
+  CLASE: 'Motocicleta',
+  'CARROCERÍA': 'Sin Carroc Motocarro',
+  MARCA: 'Yamaha',
+  'TIPO DE COMBUSTIBLE': 'Gasolina',
+  MODELO: 2019,
+  PESO: 0,
+  'GASES VIGENTE': 'Si',
+  SERVICIO: 'Particular',
+  'SOAT VIGENTE': 'No'
+}
+Type "it" for more
+admin
 
